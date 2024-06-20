@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/home-page/","tags":["gardenEntry"]}
 ---
 
-![Star Wars Armada Logo White](https://lensdump.com/i/z4zVac)
-
+![Armada Logo White](https://a.l3n.co/i/z4zVac.webp)
 
 Welcome to the Star Wars Armada Wiki! This is a labor of love and includes information from all over the web, from the official rules, tournament regulations, errata, and rapid reinforcements, to a database of previous battle reports, including lists and how the battles went.
 
