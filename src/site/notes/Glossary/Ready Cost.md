@@ -10,4 +10,4 @@ A ready cost is paid to ready an exhausted non-recur upgrade card by spending th
 - An upgrade card’s ready cost is paid by the ship that card is equipped to.
 - If a token or other component is spent as part of a card’s ready cost, that component does not also produce its normal effect.
 
-Related Topics: [[Glossary/Exhausted\|Exhausted]], [[Status Phase\|Status Phase]], [[Glossary/Readied\|Readied]], [[Upgrade Cards\|Upgrade Cards]]
+Related Topics: [[Glossary/Exhausted\|Exhausted]], [[Glossary/Status Phase\|Status Phase]], [[Glossary/Readied\|Readied]], [[Glossary/Upgrade Cards\|Upgrade Cards]]

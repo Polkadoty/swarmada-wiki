@@ -15,4 +15,4 @@ The range ruler has two sides: the range side and the distance side. The range s
 
 - The ruler is 1' long.
 
-Related Topics: [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]], [[Glossary/Ignition (Range) Keyword\|Ignition (Range) Keyword]], [[Squadron Movement\|Squadron Movement]]
+Related Topics: [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]], [[Glossary/Ignition (Range) Keyword\|Ignition (Range) Keyword]], [[Glossary/Squadron Movement\|Squadron Movement]]

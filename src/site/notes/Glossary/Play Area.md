@@ -6,4 +6,4 @@ The play area is the shared space occupied by ships, squadrons, obstacle tokens 
 
 - If any portion of a ship’s or squadron’s base is outside the play area, that ship or squadron is destroyed. For this purpose, ignore activation sliders, shield dials, and the plastic portions of a ship’s base that frame shield dials.
 
-Related Topics: [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Setup\|Setup]], [[Ship Movement\|Ship Movement]], [[Squadron Movement\|Squadron Movement]]
+Related Topics: [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Setup\|Setup]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Squadron Movement\|Squadron Movement]]

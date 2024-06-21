@@ -5,8 +5,7 @@
 Some objective cards refer to attacking the station, or to stations performing attacks. The “[[Armed Station\|Armed Station]]” card is used when playing with those objectives to track damage to the stations and indicate their armament.
 
 A station consists of a station token (from the [[Armada Core Set\|Armada Core Set]] or a fleet expansion) and station card. A station card is similar to a squadron card, but it only has a hull value, anti-squadron armament, battery armament, and rules reminder text. Stations are treated as ships when resolving effects. Stations use the following rules when they are attacked or perform an attack:
-
-- **Hull Zone:** A station is treated as a ship with one hull zone while it is attacking or defending.
+- **[[Glossary/Hull Zones\|Hull Zones]]:** A station is treated as a ship with one hull zone while it is attacking or defending.
 - **Damage:** When a station suffers damage, deal a facedown damage card to the station for each point of damage suffered. A station cannot have faceup damage cards. When a station has damage cards equal to or greater than its hull value, it is immediately destroyed. Ships and squadrons cannot resolve critical effects while attacking a station.
 - **Destroyed Stations:** When a station is destroyed, do not remove it from the play area. The station continues to obstruct line of sight, but counts as destroyed for the objective. A destroyed station cannot perform attacks and does not have the ability to discard damage cards or recover hull points for ships and squadrons that overlap it.
 - **Firing Arc:** Each station has a 360º firing arc.

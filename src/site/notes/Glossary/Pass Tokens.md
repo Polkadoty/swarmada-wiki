@@ -10,4 +10,4 @@ Note: These rules replace the pass token rules previously published in the Super
 - Before the “Deploy Ships” step of setup, if one player has fewer total ships in their fleet, that player gains a number of pass tokens equal to the difference between their total ships and their opponent’s total ships.
 - If the first player has fewer ships, that player gains one fewer pass token.
 
-Related Topics: [[Glossary/Setup\|Setup]], [[Ship Phase\|Ship Phase]]
+Related Topics: [[Glossary/Setup\|Setup]], [[Glossary/Ship Phase\|Ship Phase]]

@@ -8,4 +8,4 @@ Round tokens are used to track the current round of the game; the round number i
 
 The game ends after six rounds.
 
-Related Topics: [[Glossary/Setup\|Setup]], [[Status Phase\|Status Phase]], [[Winning and Losing\|Winning and Losing]]
+Related Topics: [[Glossary/Setup\|Setup]], [[Glossary/Status Phase\|Status Phase]], [[Winning and Losing\|Winning and Losing]]

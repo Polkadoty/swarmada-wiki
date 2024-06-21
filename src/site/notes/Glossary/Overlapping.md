@@ -20,4 +20,4 @@ If a moving ship or squadron overlaps an obstacle token, it resolves an effect d
 - A ship’s shield dials and the plastic portions that frame them count as part of the ship’s base for the purposes of overlapping, but squadrons’ activation sliders are ignored.
 - If a ship overlaps another ship while moving, it has not executed its maneuver until it resolves the effects of overlapping that other ship, including being dealt damage cards.
 
-Related Topics: [[Glossary/Obstacles\|Obstacles]], [[Ship Movement\|Ship Movement]], [[Squadron Movement\|Squadron Movement]]
+Related Topics: [[Glossary/Obstacles\|Obstacles]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Squadron Movement\|Squadron Movement]]

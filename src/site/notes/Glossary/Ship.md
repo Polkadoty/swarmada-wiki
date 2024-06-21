@@ -8,4 +8,4 @@ A ship consists of a ship base, a ship model, a ship token, and a ship card. All
 - Ship cards were printed as tarot-size cards prior to the introduction of the Galactic Republic and Separatist Alliance factions. These cards remain legal game components.
 - Some plastic ship models extend beyond the plastic base. For this reason, the plastic ship model does not affect range measurement, firing arc, movement, overlapping, or any other game mechanic.
 
-Related Topics: [[Ship Phase\|Ship Phase]], [[Squadron\|Squadron]], [[Titles\|Titles]]
+Related Topics: [[Glossary/Ship Phase\|Ship Phase]], [[Glossary/Squadron\|Squadron]], [[Glossary/Titles\|Titles]]

@@ -15,4 +15,4 @@ As part of building a fleet, each player must choose three objective cards, one 
 - A fleet cannot spend more than one third of its fleet points, rounded up, on squadrons.
 - A fleet can contain **one** unique squadron with defense tokens for each 100 points of the agreed fleet-point total.
 
-Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Faction\|Faction]], [[Glossary/Flagship\|Flagship]], [[Glossary/Objective Cards\|Objective Cards]], [[Upgrade Cards\|Upgrade Cards]]
+Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Faction\|Faction]], [[Glossary/Flagship\|Flagship]], [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Upgrade Cards\|Upgrade Cards]]

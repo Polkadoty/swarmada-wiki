@@ -11,4 +11,4 @@ While a squadron is at distance 1 of one or more enemy squadrons, it is engaged 
 - A squadron is no longer engaged if the last squadron engaged with it is destroyed.
 - Squadrons do not engage other squadrons while moving even if a portion of the range ruler is at distance 1 of an enemy squadron. Only the starting and final positions matter for engagement.
 
-Related Topics: [[Glossary/Obstructed\|Obstructed]], [[Squadron Movement\|Squadron Movement]]
+Related Topics: [[Glossary/Obstructed\|Obstructed]], [[Glossary/Squadron Movement\|Squadron Movement]]

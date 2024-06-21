@@ -20,4 +20,4 @@ Each effect in the game has a timing during which it can resolve. This timing is
   - During setup, ships and squadrons that have not yet been deployed are in play, and their ship, squadron, and upgrade cards are active, unless that ship or squadron has been destroyed or set aside.
 - When a card is discarded or flipped facedown, its effect is no longer active in the game.
 
-Related Topics: [[Glossary/Critical Effects\|Critical Effects]], [[Glossary/Modifying Dice\|Modifying Dice]], [[Squadron Keywords\|Squadron Keywords]], [[Upgrade Cards\|Upgrade Cards]]
+Related Topics: [[Glossary/Critical Effects\|Critical Effects]], [[Glossary/Modifying Dice\|Modifying Dice]], [[Glossary/Squadron Keywords\|Squadron Keywords]], [[Glossary/Upgrade Cards\|Upgrade Cards]]

@@ -13,4 +13,4 @@ Cards and defense tokens are readied during the Status Phase and begin the game 
 - While an upgrade card that is not marked with the recur icon or non-recur icon is exhausted, that card is treated as if it has the recur icon and is readied during the Status Phase.
     - This includes upgrade cards printed prior to the introduction of the Galactic Republic and Separatist Alliance factions, which are not marked with either icon.
 
-Related Topics: [[Glossary/Defense Tokens\|Defense Tokens]], [[Glossary/Exhausted\|Exhausted]], [[Glossary/Ready Cost\|Ready Cost]], [[Status Phase\|Status Phase]], [[Upgrade Cards\|Upgrade Cards]]
+Related Topics: [[Glossary/Defense Tokens\|Defense Tokens]], [[Glossary/Exhausted\|Exhausted]], [[Glossary/Ready Cost\|Ready Cost]], [[Glossary/Status Phase\|Status Phase]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
