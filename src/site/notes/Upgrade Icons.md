@@ -3,3 +3,4 @@
 ---
 
 Each upgrade icon uses the corresponding name listed below:
+- Commander
