@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/glossary/navigate-command/"}
 ---
 
-:SiAdept:
+`<span class="icon icon-SiAdept"></span>`
+
