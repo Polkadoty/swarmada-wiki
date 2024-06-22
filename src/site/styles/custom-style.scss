@@ -11,3 +11,16 @@ body {
     //   color: black;
     //  }
 }
+
+/* Custom icons */
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em; /* Adjust vertical alignment as needed */
+}
+
+.icon-SiAdept::before {
+  content: url('/assets/icons/SiAdept.svg');
+}
+
