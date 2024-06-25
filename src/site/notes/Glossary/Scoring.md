@@ -7,4 +7,4 @@ Players determine their score at the end of the game. A player’s score is the 
 - Discarded upgrade cards do not count toward a player’s score unless they are equipped to a destroyed ship.
 - Each victory token is worth the number of fleet points indicated in the lower-right corner of the objective card used for that game.
 
-Related Topics: [[Glossary/Objective Cards\|Objective Cards]], [[Victory Tokens\|Victory Tokens]], [[Winning and Losing\|Winning and Losing]]
+Related Topics: [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Victory Tokens\|Victory Tokens]], [[Glossary/Winning and Losing\|Winning and Losing]]

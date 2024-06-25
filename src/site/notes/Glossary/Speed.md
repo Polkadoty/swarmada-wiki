@@ -10,4 +10,4 @@ A ship's speed determines how far it must move each activation; the ship's curre
 	- While a ship's speed is temporarily changed during its "Execute Maneuver" step, other effects resolved on that ship that temporarily increase or reduce its speed can change that ship's temporary speed as indicated, to a minimum of 0.
 	- When an effect instructs a ship to execute an additional maneuver outside of its usual "Execute Maneuver" step, the ship's speed is temporarily set to the speed indicated by the effect that is resolved. The ship executes the maneuver by completing the "Determine Course" and "Move Ship" steps.
 
-Related Topics: [[Glossary/Commands\|Commands]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Speed Chart\|Speed Chart]], [[Glossary/Squadron Movement\|Squadron Movement]], [[Yaw\|Yaw]]
+Related Topics: [[Glossary/Commands\|Commands]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Speed Chart\|Speed Chart]], [[Glossary/Squadron Movement\|Squadron Movement]], [[Glossary/Yaw\|Yaw]]

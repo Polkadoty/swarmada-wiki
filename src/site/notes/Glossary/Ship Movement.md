@@ -17,5 +17,5 @@ To execute a maneuver with a ship, its owner proceeds through the following step
 	- During the ship’s “Move Ship” step, the maneuver tool is straightened and the guides of the last segment are inserted into the notches on the side of the front of the ship’s base that matches the declared direction. Then, the ship is slid away from those guides, the last joint of the maneuver tool is clicked the declared number of times in the declared direction, and the ship is placed by sliding its notches back over the last joint.
 	- If the ship’s final position would overlap another ship, it cannot finish its maneuver normally, and instead returns to its original position at speed “0” with no clicks of yaw. Both ships are dealt damage cards for overlapping as normal.
 
-Related Topics: [[Glossary/Maneuver Tool\|Maneuver Tool]], [[Glossary/Overlapping\|Overlapping]], [[Glossary/Ship Activation\|Ship Activation]], [[Yaw\|Yaw]]
+Related Topics: [[Glossary/Maneuver Tool\|Maneuver Tool]], [[Glossary/Overlapping\|Overlapping]], [[Glossary/Ship Activation\|Ship Activation]], [[Glossary/Yaw\|Yaw]]
 

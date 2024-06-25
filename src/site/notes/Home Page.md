@@ -15,6 +15,9 @@ Note, this wiki is not complete. It it still a work in progress. Current Progres
 
 ### Rules
 
+[[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]]
+[[Rules Clarifications\|Rules Clarifications]]
+
 #### Glossary
 
 [[Glossary/Glossary Index\|Glossary Index]]

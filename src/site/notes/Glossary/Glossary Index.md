@@ -91,6 +91,10 @@
 - [[Glossary/Yaw at Speed 0\|Yaw at Speed 0]]
 - [[Glossary/Setup Area\|Setup Area]]
 - [[Glossary/Squadron\|Squadron]]
+- [[Glossary/Upgrade Icons\|Upgrade Icons]]
+- [[Glossary/Yaw\|Yaw]]
+- [[Glossary/Victory Tokens\|Victory Tokens]]
+- [[Glossary/Winning and Losing\|Winning and Losing]]
 
 { .block-language-dataview}
 

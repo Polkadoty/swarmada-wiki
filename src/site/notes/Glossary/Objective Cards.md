@@ -12,4 +12,4 @@ Each player chooses three objective cards as part of their fleet, and each of th
   - **Navigation:** Navigation objectives reward players who maneuver aggressively and precisely.
 - When a ship is chosen as an objective ship, indicate this by placing an objective token next to its ship card.
 
-Related Topics: [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Scoring\|Scoring]], [[Glossary/Setup\|Setup]], [[Victory Tokens\|Victory Tokens]], [[Winning and Losing\|Winning and Losing]]
+Related Topics: [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Scoring\|Scoring]], [[Glossary/Setup\|Setup]], [[Glossary/Victory Tokens\|Victory Tokens]], [[Glossary/Winning and Losing\|Winning and Losing]]

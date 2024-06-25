@@ -11,4 +11,4 @@ The attacker’s armament indicates the color and number of dice that can be use
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Attack Pool\|Attack Pool]], [[Glossary/Attack Range\|Attack Range]]
 
-[^1]: #ffg [[Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 2
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 2
