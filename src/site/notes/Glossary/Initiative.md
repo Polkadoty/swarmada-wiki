@@ -4,6 +4,8 @@
 
 Initiative determines which player acts first during the Ship Phase and Squadron Phase. It is assigned to a player during the “Determine Initiative” step of setup. That player is the first player and takes the initiative token. That player’s opponent is the second player.
 
-- The first player retains initiative for the entire game.
+- The first player retains initiative for the entire game [^1].
 
 Related Topics: [[Glossary/First Player\|First Player]], [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Second Player\|Second Player]], [[Glossary/Setup\|Setup]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 10

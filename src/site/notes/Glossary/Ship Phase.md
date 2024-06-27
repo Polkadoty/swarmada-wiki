@@ -13,6 +13,8 @@ During this phase, the first player activates one of their ships. Then the secon
 	- The second player may pass their turn if they do not have more unactivated ships than the first player.
 	- A player cannot spend a pass token on consecutive turns during the same Ship Phase.
 
-Example: Anna is the first player and Max is the second player. After Anna activates the first ship, she has two unactivated ships remaining and Max has one unactivated ship. Max decides to pass and spends a pass token. Then, Anna activates another ship. After that ship is activated, Max cannot pass again even though he and Anna have an equal number of unactivated ships remaining, because Max cannot pass two consecutive turns to activate.
+Example: Anna is the first player and Max is the second player. After Anna activates the first ship, she has two unactivated ships remaining and Max has one unactivated ship. Max decides to pass and spends a pass token. Then, Anna activates another ship. After that ship is activated, Max cannot pass again even though he and Anna have an equal number of unactivated ships remaining, because Max cannot pass two consecutive turns to activate [^1].
 
 Related Topics: [[Glossary/First Player\|First Player]], [[Glossary/Pass Tokens\|Pass Tokens]], [[Glossary/Round\|Round]], [[Glossary/Ship Activation\|Ship Activation]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 17-18

@@ -6,6 +6,8 @@ Each ship token has four printed firing arc lines which define its four firing a
 
 - Firing arcs are infinite; they do not end at the end of the range ruler.
 - A firing arc includes the width of the firing arc lines that border it.
-- Each squadron has a 360° firing arc.
+- Each squadron has a 360° firing arc [^1].
 
 Related Topics: [[Glossary/Hull Zones\|Hull Zones]], [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 6

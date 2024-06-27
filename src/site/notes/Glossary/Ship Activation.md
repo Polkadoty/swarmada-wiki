@@ -7,6 +7,8 @@ Ships are activated during the Ship Phase. When a ship is activated, its owner p
 2. Attack: Perform up to two attacks with the ship from different hull zones.
 3. Execute Maneuver: Move the ship at its current speed.
 - After a ship activates, place its revealed command dial faceup on its ship card to track that it has activated.
-- Each ship can activate only once per round.
+- Each ship can activate only once per round [^1].
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Commands\|Commands]], [[Glossary/Ship Movement\|Ship Movement]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 16-17

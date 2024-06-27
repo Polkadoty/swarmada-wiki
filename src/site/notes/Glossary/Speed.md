@@ -8,6 +8,8 @@ A ship's speed determines how far it must move each activation; the ship's curre
 - Each ship's maximum speed is indicated on its speed chart. If a ship does not have any yaw values in a speed column, it cannot accelerate to that speed.
 - When an effect temporarily changes a ship's speed during its "Execute Maneuver" step the ship's speed is temporarily increased or reduced as indicated by the effect that is resolved. The ship executes the maneuver by completing the "Determine Course" and "Move Ship" steps. The ship's current speed is still tracked by its speed dial, and the ship does not count as having changed its speed for the purposes of resolving other effects.
 	- While a ship's speed is temporarily changed during its "Execute Maneuver" step, other effects resolved on that ship that temporarily increase or reduce its speed can change that ship's temporary speed as indicated, to a minimum of 0.
-	- When an effect instructs a ship to execute an additional maneuver outside of its usual "Execute Maneuver" step, the ship's speed is temporarily set to the speed indicated by the effect that is resolved. The ship executes the maneuver by completing the "Determine Course" and "Move Ship" steps.
+	- When an effect instructs a ship to execute an additional maneuver outside of its usual "Execute Maneuver" step, the ship's speed is temporarily set to the speed indicated by the effect that is resolved. The ship executes the maneuver by completing the "Determine Course" and "Move Ship" steps [^1].
 
 Related Topics: [[Glossary/Commands\|Commands]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Speed Chart\|Speed Chart]], [[Glossary/Squadron Movement\|Squadron Movement]], [[Glossary/Yaw\|Yaw]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 19

@@ -20,6 +20,8 @@ Several additional rules are also used when playing with huge ships.
   - **Determine Course:** Due to the size of huge ships, some maneuvers cause the ship to overlap the maneuver tool whether it is placed on either side of the ship. When performing the determine course step of the ship’s maneuver, any course that would cause the ship to overlap the maneuver tool is an illegal maneuver and cannot be performed. Determine a different course instead.
   - **Move Ship:** When placing the maneuver tool, insert the guides of the first segment into the notches on one side of the rear ship base (instead of the front ship base). When placing the ship at the joint corresponding to its speed, slide the notches of the rear ship base over the guides at that joint.
 - **Scoring:** When players determine their scores at the end of the game, a player’s score includes half of the total fleet point cost (rounded up) of each crippled enemy huge ship in the play area. A huge ship is crippled if it has a number of damage cards equal to at least half of its hull value, rounded up. A crippled huge ship’s fleet point cost includes the costs of all upgrade cards equipped to that ship.
-- **Upgrade Bar:** A huge ship cannot equip upgrade cards that add upgrade icons to its upgrade bar.
+- **Upgrade Bar:** A huge ship cannot equip upgrade cards that add upgrade icons to its upgrade bar [^1].
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Command Dials\|Command Dials]], [[Glossary/Firing Arc\|Firing Arc]], [[Glossary/Hull Zones\|Hull Zones]], [[Glossary/Scoring\|Scoring]], [[Glossary/Setup\|Setup]], [[Glossary/Ship\|Ship]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Ship Phase\|Ship Phase]], [[Glossary/Squadron\|Squadron]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 7-8

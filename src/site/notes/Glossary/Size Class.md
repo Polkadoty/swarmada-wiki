@@ -22,6 +22,8 @@ bases.
 	- MC80 Cruiser
 	- Imperial-class Star Destroyer
 - The following ships are huge ships:
-	- Executor-class Star Dreadnought
+	- Executor-class Star Dreadnought [^1]
 
 Related Topics: [[Glossary/Flotillas\|Flotillas]], [[Glossary/Huge Ship\|Huge Ship]], [[Glossary/Ship\|Ship]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 18

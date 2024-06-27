@@ -15,6 +15,28 @@ To set up a standard game of Star Wars: Armada, proceed through the following st
 	- If a player only has one squadron remaining when they must place two, they cannot place it until they have placed all of their ships. 
 	- Ships and squadrons can be placed on top of the setup area markers as long as they remain entirely within the setup area.
 7. Prepare Other Components: Shuffle the damage deck and place it next to the play area along with the command tokens, maneuver tool, range ruler, and the round token marked “1.”
-8. Clean Up: Remove the setup area markers from the play area.
+8. Clean Up: Remove the setup area markers from the play area [^1].
+
+## FAQ
+
+> [!question] Q: During the "Place Obstacles" step of setup, can the players place any combination of six obstacles?
+> **A:** No. The players place three asteroid fields, two debris fields, and one station.
+
+> [!question] Q: During the "Deploy Ships" step of setup, can a player set their ship's speed to "0"?
+> **A:** No.
+
+> [!question] Q: Can a ship be placed so that it overlaps another ship?
+> **A:** No.
+
+> [!question] Q: During Setup, can ships and squadrons resolve card effects before they have been deployed?
+> **A:** Yes. During Setup, ships and squadrons that have not yet been deployed are in play, and their ship, squadron, and upgrade cards are active, unless that ship or squadron has been destroyed or set aside.
+
+> [!question] Q: When a ship is deployed, does its shield dial need to be within that fleet's deployment zone?
+> **A:** No. When measuring a ship's distance from the edge of the play area, such as whether that ship is in its deployment zone, ignore its shield dials and the plastic portions of the base that frame the shield dial.
+
+[^2]
 
 Related Topics: [[Glossary/Deployment Zone\|Deployment Zone]], [[Glossary/ID Tokens\|ID Tokens]], [[Glossary/Initiative\|Initiative]], [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Obstacles\|Obstacles]], [[Glossary/Play Area\|Play Area]], [[Glossary/Range and Distance\|Range and Distance]], [[Glossary/Setup Area\|Setup Area]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 16
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 33

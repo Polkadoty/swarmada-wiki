@@ -22,6 +22,8 @@ When building a fleet, upgrade cards can be equipped to ships by adding their fl
 - On upgrade card effects, the term “you” refers to the ship that the upgrade is equipped to.
 - An exhausted upgrade card cannot be exhausted again.
 - Upgrade cards are readied during the Status Phase.
-- Upgrade cards were printed as mini-size cards prior to the introduction of the Galactic Republic and Separatist Alliance factions. These cards remain legal game components.
+- Upgrade cards were printed as mini-size cards prior to the introduction of the Galactic Republic and Separatist Alliance factions. These cards remain legal game components [^1].
 
 Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Effect Use and Timing\|Effect Use and Timing]], [[Glossary/Faction\|Faction]], [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Readied\|Readied]], [[Glossary/Scoring\|Scoring]], [[Glossary/Ship\|Ship]], [[Glossary/Size Class\|Size Class]], [[Glossary/Titles\|Titles]], [[Glossary/Unique Names\|Unique Names]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 21

@@ -14,6 +14,8 @@ When resolving an attack, players measure line of sight between ships and squadr
   - If line of sight is traced through the attacking or defending hull zone’s shield dial and that dial is also overlapping an obstacle, that attack is treated as obstructed.
 - Squadrons do not block or obstruct line of sight.
 - The attacker’s hull zones do not block its line of sight.
-- If players must trace a line that is longer than the range ruler, they can estimate the line extended from the end of the ruler.
+- If players must trace a line that is longer than the range ruler, they can estimate the line extended from the end of the ruler [^1].
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Obstructed\|Obstructed]], [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 10

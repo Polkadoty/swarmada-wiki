@@ -31,6 +31,42 @@ A ship can resolve the effect of a command by spending a command dial or command
 - A ship can spend both a command dial and a command token to combine their effects. Doing so counts as a single resolution of the command. For example, a ship can increase its speed twice by spending a Navigate command dial and a Navigate command token.
   - A ship must decide whether it is spending the dial, the token, or both before resolving that command’s effects.
 - A player can resolve numerous commands in the same round, such as by spending a Repair command token and a Squadron command token during the “Reveal Command Dial” step of activation, and then spending a Evade command dial during the “Determine Course” step of movement.
-- A ship can resolve a command and choose not to produce its effect. It still counts as resolving that command, such as for the purpose of triggering upgrade cards.
+- A ship can resolve a command and choose not to produce its effect. It still counts as resolving that command, such as for the purpose of triggering upgrade cards [^1].
+## FAQ
+
+> [!question] Q: When a ship spends a command dial and token of the same type, does that count as one resolution of that command?
+> **A:** Yes.
+
+> [!question] Q: If a ship wants to spend a command dial and token of the same type, does it have to spend them simultaneously?
+> **A:** Yes. It must already have both the dial and token, and must spend them together. For example, when a ship with both a [[Glossary/Concentrate Fire Command\|Concentrate Fire Dial]] and a [[Glossary/Concentrate Fire Command\|Concentrate Fire Token]] decides to resolve that command, it must decide whether it is spending the dial, the token, or both before resolving that command's effects.
+
+> [!question] Q: Can a ship spend its command dial to gain a command token of the same type at any point during its activation?
+> **A:** No. It can only do this when it reveals its command dial.
+
+> [!question] Q: If a ship spends its command dial to gain a command token of the same type, can it spend that token later in that round?
+> **A:** Yes.
+
+> [!question] Q: If a ship has a [[Glossary/Concentrate Fire Command\|Concentrate Fire Command]] dial and a token, can it spend those tokens against different targets during the same round?
+> **A:** No. A ship cannot resolve each command more than once each round.
+
+> [!question] Q: If a ship spends a [[Glossary/Concentrate Fire Command\|Concentrate Fire Command]] dial and a token together, can it reroll the die that it adds? Is it required to reroll a die?
+> **A:** It can reroll the die that it adds, and it can choose not to reroll any dice.
+
+> [!question] Q: Can a ship resolve the effect of a command by spending multiple matching command dials or command tokens?
+> **A:** No. A ship may only resolve a command by spending one command dial, one command token, or one command dial and one matching command token.
+
+> [!question] Q: Do abilities or card effects that resolve when a ship reveals its command dial resolve when a command dial placed on an upgrade card equipped to that ship is revealed?
+> **A:** No. Effects that resolve when a ship reveals its command dial only resolve when a ship reveals a command dial from the stack assigned to its ship card as part of its activation.
+
+> [!question] Q: After a ship discards a raid token assigned to it, can that ship resolve that command during the same activation?
+> **A:** Yes. After a ship reveals and discards its dial or command tokens to discard a raid token, that ship can spend a command token (or an additional dial) at the appropriate time to resolve that command.
+
+> [!question] Q: When a player resolve an effect that allows them to change facedown command dials assigned to an opponent's ship, is that player allowed to see what commands were previously set on those dials?
+> **A:** Yes. The player resolving the effect gains the knowledge of the commands on those dials.
+
+[^2]
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Command Dials\|Command Dials]], [[Glossary/Effect Use and Timing\|Effect Use and Timing]], [[Glossary/Shields\|Shields]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 3-4
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 32

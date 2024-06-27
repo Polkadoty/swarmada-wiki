@@ -11,6 +11,8 @@ Some upgrade cards begin the game with a number of command tokens or facedown co
 	- Command Dial ([[Glossary/Concentrate Fire Command\|Concentrate Fire Command]], [[Glossary/Repair Command\|Repair Command]], [[Glossary/Navigate Command\|Navigate Command]], or [[Glossary/Squadron Command\|Squadron Command]]) icons: Command dials are indicated by a specific command icon surrounded by a block. The owning player sets the indicated number of command dials to the specific command shown and stacks them facedown on the card, similar to a ship’s command stack.
 	- Any Dial icon: The owning player sets the indicated number of command dials to any command or mix of commands and stacks them facedown on the card, similar to a ship’s command stack.
 - Command tokens or dials on an upgrade card belong to that card and are not assigned to the ship that card is equipped to. 
-	- Command tokens or dials on an upgrade card can only be spent or discarded as indicated by that card’s effect.
+	- Command tokens or dials on an upgrade card can only be spent or discarded as indicated by that card’s effect [^1].
 
 Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Effect Use and Timing\|Effect Use and Timing]], [[Glossary/Faction\|Faction]], [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Flotillas\|Flotillas]], [[Glossary/Scoring\|Scoring]], [[Glossary/Titles\|Titles]], [[Glossary/Unique Names\|Unique Names]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 21

@@ -10,6 +10,8 @@ Each player chooses three objective cards as part of their fleet, and each of th
   - **Assault:** Assault objectives typically identify one or more ships that are worth extra fleet points when damaged or destroyed.
   - **Defense:** Defense objectives alter the play area to provide a significant advantage to one player.
   - **Navigation:** Navigation objectives reward players who maneuver aggressively and precisely.
-- When a ship is chosen as an objective ship, indicate this by placing an objective token next to its ship card.
+- When a ship is chosen as an objective ship, indicate this by placing an objective token next to its ship card [^1].
 
 Related Topics: [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Scoring\|Scoring]], [[Glossary/Setup\|Setup]], [[Glossary/Victory Tokens\|Victory Tokens]], [[Glossary/Winning and Losing\|Winning and Losing]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 11

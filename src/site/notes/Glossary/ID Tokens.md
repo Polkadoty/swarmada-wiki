@@ -6,6 +6,8 @@ Players use ID tokens to distinguish their ships during a game. Each flagship mu
 
 - A ship ID token is assigned to a ship by inserting the token into the ship’s ID slot and placing the main ship ID token with the same number or icon on that ship’s card.
 - A squadron ID token is assigned to a squadron by inserting it into the squadron’s ID slot.
-- All of a fleet’s ID tokens must display the same color and cannot display the color being used by the opposing fleet.
+- All of a fleet’s ID tokens must display the same color and cannot display the color being used by the opposing fleet [^1].
 
 Related Topics: [[Glossary/Faction\|Faction]], [[Glossary/Setup\|Setup]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 8

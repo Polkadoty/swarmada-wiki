@@ -13,6 +13,16 @@ Ships and squadrons can suffer damage from attacks, obstacles, and other game ef
 - Facedown damage cards remain facedown unless an effect flips them faceup. While a damage card is facedown, players cannot look at its effect.
 - Damage cards are dealt one at a time.
 - If there are no cards remaining in the damage card deck when a damage card must be drawn or looked at, shuffle the discard pile to form a new damage deck.
-- Each damage card has either the “Ship” or “Crew” trait. These traits have no inherent effect, but card effects may refer to them.
+- Each damage card has either the “Ship” or “Crew” trait. These traits have no inherent effect, but card effects may refer to them [^1].
+
+## FAQ
+
+> [!question] Q: Can players look at facedown damage cards assigned to ships?
+> **A:** No.
+
+[^2]
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Destroyed Ships and Squadrons\|Destroyed Ships and Squadrons]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 4
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 32

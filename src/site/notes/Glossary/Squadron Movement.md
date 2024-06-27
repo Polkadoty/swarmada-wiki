@@ -9,6 +9,8 @@ To move a squadron, its owner proceeds through the following steps:
 - A squadron cannot be placed with any part of its base overlapping another squadron or ship. 
 - A squadron can move through ships, squadrons, and obstacles without issue. Only its starting and final positions matter.
 - If the range ruler cannot be placed in the play area due to other ships and squadrons being in the way, hold the range ruler above the play area and estimate the squadron’s final position.
-- When a squadron moves, it can choose to remain in its current position and is still considered to have moved.
+- When a squadron moves, it can choose to remain in its current position and is still considered to have moved [^1].
 
 Related Topics: [[Glossary/Commands\|Commands]], [[Glossary/Engagement\|Engagement]], [[Glossary/Obstacles\|Obstacles]], [[Glossary/Premeasuring\|Premeasuring]], [[Glossary/Range and Distance\|Range and Distance]], [[Glossary/Squadron Activation\|Squadron Activation]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 20

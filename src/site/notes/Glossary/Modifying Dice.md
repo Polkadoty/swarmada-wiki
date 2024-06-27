@@ -9,6 +9,8 @@ Dice can be modified in the following ways by game effects:
   - The range restriction on dice color applies only when dice are gathered during the “Roll Attack Dice” step of an attack.
 - **Change:** When a die is changed, rotate it to display the indicated face.
 - **Spend:** When a die or die icon is spent, remove that die from the attack pool.
-- **Cancel:** When a die or die icon is canceled, remove it from the attack pool.
+- **Cancel:** When a die or die icon is canceled, remove it from the attack pool [^1].
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Dice Icons\|Dice Icons]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 11

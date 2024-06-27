@@ -18,6 +18,8 @@ If a moving ship or squadron overlaps an obstacle token, it resolves an effect d
 	- A squadron that cannot be placed touching the ship must be placed touching another squadron that is touching the ship.
 - If a squadron is placed on an obstacle as a result of being overlapped, it does not resolve the effects of overlapping.
 - A ship’s shield dials and the plastic portions that frame them count as part of the ship’s base for the purposes of overlapping, but squadrons’ activation sliders are ignored.
-- If a ship overlaps another ship while moving, it has not executed its maneuver until it resolves the effects of overlapping that other ship, including being dealt damage cards.
+- If a ship overlaps another ship while moving, it has not executed its maneuver until it resolves the effects of overlapping that other ship, including being dealt damage cards [^1].
 
 Related Topics: [[Glossary/Obstacles\|Obstacles]], [[Glossary/Ship Movement\|Ship Movement]], [[Glossary/Squadron Movement\|Squadron Movement]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 14

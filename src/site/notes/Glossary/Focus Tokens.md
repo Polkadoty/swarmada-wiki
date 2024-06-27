@@ -4,6 +4,8 @@
 
 Some effects refer to focus tokens. The player controlling the equipped ship places that token on one of that ship’s hull zones to mark that effect.
 
-The reverse side of this token is red, and is referred to as a chaff token.
+The reverse side of this token is red, and is referred to as a chaff token [^1].
 
 Related Topics: [[Glossary/Chaff Tokens\|Chaff Tokens]], [[Glossary/Hull Zones\|Hull Zones]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 7

@@ -30,6 +30,8 @@ Each squadron has one or more keywords with matching keyword icons. Each keyword
 
 - Keywords with a numerical value (an "X" value) are cumulative with themselves. If a squadron that has a numerical-value keyword gains that keyword again through an effect, that keyword’s total value is the sum of the value the squadron already had and the value gained.
 	- Example: a Delta-7 Aethersprite squadron has the adept 1 keyword. That squadron gains adept 1 again from another effect. That squadron now has adept 2 for the duration of that effect.
-- Keyword text on squadron cards is reminder text. The reminder text is not an exhaustive description of the rules for a keyword. If reminder text contradicts that keyword’s rules found in this Rules Reference, the Rules Reference takes precedence.
+- Keyword text on squadron cards is reminder text. The reminder text is not an exhaustive description of the rules for a keyword. If reminder text contradicts that keyword’s rules found in this Rules Reference, the Rules Reference takes precedence [^1].
 
 Related Topics: [[Glossary/Armament\|Armament]], [[Glossary/Attack\|Attack]], [[Glossary/Commands\|Commands]], [[Glossary/Engagement\|Engagement]], [[Glossary/Obstacle and Token Movement\|Obstacle and Token Movement]], [[Glossary/Raid Tokens\|Raid Tokens]], [[Glossary/Setup\|Setup]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 19-20

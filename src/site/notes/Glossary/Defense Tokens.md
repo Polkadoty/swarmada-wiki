@@ -28,6 +28,19 @@ Ships and unique squadrons gain the defense tokens indicated on their ship and s
 - If the defender’s speed is “0,” it cannot spend defense tokens.
 - The defender cannot spend more than one defense token of each type per attack.
 - A defense token cannot be spent more than once during an attack.
-- Defense tokens can be spent as part of a cost for upgrade card effects. If spent in this way, a defense token does not produce its normal effect.
+- Defense tokens can be spent as part of a cost for upgrade card effects. If spent in this way, a defense token does not produce its normal effect [^1].
+
+## FAQ
+
+> [!question] Q: Can a ship spend a defense token even if it would have no effect?
+> **A:** Yes. For example, a ship can spend a [[Redirect\|Redirect]] token and choose an adjacent hull zone with no shields remaining.
+
+> [!question] Q: Can a ship spend an evade token to reroll a die and wait to see the result before spending another defense token?
+> **A:** Yes.
+
+[^2]
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Size Class\|Size Class]], [[Glossary/Status Phase\|Status Phase]], [[Glossary/Range and Distance\|Range and Distance]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 4-5
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 32

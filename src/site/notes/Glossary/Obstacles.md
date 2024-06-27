@@ -29,6 +29,8 @@ When a ship or squadron overlaps an obstacle after executing a maneuver, it reso
 - If a ship overlaps more than one obstacle, it resolves the effects of each obstacle in any order.
 - Attacks that draw line of sight through an obstacle token are obstructed.
 - When playing a standard game with an objective card, players must use the six obstacle tokens from a core set or fleet expansion and add obstacles from a campaign expansion if specified by the chosen objective card.
-  - Players must use the obstacle shapes provided in a core set or campaign expansion and cannot choose a different mix of shapes by combining multiple sets.
+  - Players must use the obstacle shapes provided in a core set or campaign expansion and cannot choose a different mix of shapes by combining multiple sets [^1].
 
 Related Topics: [[Glossary/Line of Sight\|Line of Sight]], [[Glossary/Obstacle and Token Movement\|Obstacle and Token Movement]], [[Glossary/Obstructed\|Obstructed]], [[Glossary/Overlapping\|Overlapping]], [[Glossary/Setup\|Setup]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 12

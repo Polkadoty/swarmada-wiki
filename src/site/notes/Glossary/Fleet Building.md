@@ -13,6 +13,15 @@ As part of building a fleet, each player must choose three objective cards, one 
 - A fleet must have one flagship and cannot have more than one flagship.
 - A ship cannot equip more than one copy of the same upgrade card.
 - A fleet cannot spend more than one third of its fleet points, rounded up, on squadrons.
-- A fleet can contain **one** unique squadron with defense tokens for each 100 points of the agreed fleet-point total.
+- A fleet can contain **one** unique squadron with defense tokens for each 100 points of the agreed fleet-point total [^1].
+## FAQ
+
+> [!question] Q: During fleet-building, how many fleet points can a player spend on squadrons?
+> **A:** While using standard fleet-building rules, a player can spend up to one third of the fleet point total, rounded up. For example, if playing a 200 point game, a fleet could contain 67 points of squadrons, even if the total cost of that fleet was only 190.
+
+[^2]
 
 Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Faction\|Faction]], [[Glossary/Flagship\|Flagship]], [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 6
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 33

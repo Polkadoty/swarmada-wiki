@@ -30,6 +30,28 @@ To perform an attack with a squadron or ship, resolve the following steps:
 - A ship can perform two attacks during its activation, but it cannot attack from the same hull zone more than once per activation.
 - A ship can attack the same target with different attacks.
 - A ship can attack an engaged squadron.
-- Ships and squadrons cannot attack friendly ships and squadrons.
+- Ships and squadrons cannot attack friendly ships and squadrons [^1].
+
+## FAQ:
+
+> [!question] Q: When a ship resolves an ability that allows it to add dice to the attack pool, can it add those dice if their color is not normally appropriate for the range of the attack?
+> **A:** Yes. The range restrictions on dice color applies only when dice are gathered during the "Roll Attack Dice" step of the attack.
+
+> [!question] Q: If a ship's attack would not include any dice, but the ship can add dice through a card effect, can it perform the attack?
+> **A:** No. If a ship does not gather any dice during the "Roll Attack Dice" step of an attack, the attack is canceled.
+
+> [!question] Q: When measuring line of sight, do the attacker's hull zones block line of sight?
+> **A:** No.
+
+> [!question] Q: While measuring line of sight, if a ship is in the way, do its shield dials and their plastic frames affect line of sight in any way?
+> **A:** No. However, when determining line of sight, all of the other parts of a ship's plastic base can obstruct line of sight.
+
+> [!question] Q: Can a ship attack an engaged squadron?
+> **A:** Yes.
+
+[^2]
 
 Related Topics: [[Glossary/Attack Range\|Attack Range]], [[Glossary/Critical Effects\|Critical Effects]], [[Glossary/Damage\|Damage]], [[Glossary/Engagement\|Engagement]], [[Glossary/Firing Arc\|Firing Arc]], [[Glossary/Line of Sight\|Line of Sight]], [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]], [[Glossary/Modifying Dice\|Modifying Dice]], [[Glossary/Range and Distance\|Range and Distance]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 2
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 32

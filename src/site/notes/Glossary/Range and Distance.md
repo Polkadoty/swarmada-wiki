@@ -13,6 +13,8 @@ The range ruler has two sides: the range side and the distance side. The range s
     - Minimum–Maximum: This abbreviation encompasses the minimum band, maximum band, and all bands in-between, such as “distance 1–4.”
     - Extreme Range: Extreme range is any range greater than the length of the range ruler.
 
-- The ruler is 1' long.
+- The ruler is 1' long [^1].
 
 Related Topics: [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]], [[Glossary/Ignition (Range) Keyword\|Ignition (Range) Keyword]], [[Glossary/Squadron Movement\|Squadron Movement]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 15

@@ -18,6 +18,8 @@ Each upgrade icon uses the corresponding name listed below:
 - Superweapon
 - Title
 
-Commander and title cards display their upgrade icons on their card backs only.
+Commander and title cards display their upgrade icons on their card backs only [^1].
 
 Related Topics: [[Glossary/Commanders\|Commanders]], [[Glossary/Fleet Building\|Fleet Building]], [[Glossary/Titles\|Titles]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 22

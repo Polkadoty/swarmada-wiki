@@ -16,6 +16,8 @@ Some objective cards, obstacle types, and other effects refer to moving obstacle
    - **Toward:** Some effects direct players to move an obstacle or token toward a ship, squadron, obstacle, other token, or portion of the play area. When this is specified, the player moving the obstacle must also follow these restrictions:
      - This movement must be measured directly toward the other component, along a line from the closest point on the obstacle to the closest point on the other component.
      - That obstacle or token must be moved from its current position to at least the line that marks the end of the distance band matching the specified minimum movement.
-     - If that obstacle or token cannot be moved its specified minimum distance, it must be moved from its current position as close as possible to the line that marks the end of the specified minimum distance’s band.
+     - If that obstacle or token cannot be moved its specified minimum distance, it must be moved from its current position as close as possible to the line that marks the end of the specified minimum distance’s band [^1].
 
 Related Topics: [[Glossary/Line of Sight\|Line of Sight]], [[Glossary/Measuring Firing Arc and Range\|Measuring Firing Arc and Range]], [[Glossary/Objective Cards\|Objective Cards]], [[Glossary/Obstacles\|Obstacles]], [[Glossary/Overlapping\|Overlapping]], [[Glossary/Range and Distance\|Range and Distance]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 13

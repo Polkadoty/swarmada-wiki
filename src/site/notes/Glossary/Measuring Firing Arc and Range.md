@@ -13,6 +13,8 @@ If attack range is measured through a hull zone on the defender that is not the 
 - Targeting points are not used when measuring range; they are exclusively for determining line of sight.
 - When measuring non-attack range or distance between two components, measure from the closest point of the first component to the closest point of the second component.
 - A ship or squadron is always at close range and distance 1 of itself.
-- When measuring firing arc, range, or distance, ignore squadrons’ activation sliders and ships’ shield dials and the plastic portions of the base that frame the shield dial.
+- When measuring firing arc, range, or distance, ignore squadrons’ activation sliders and ships’ shield dials and the plastic portions of the base that frame the shield dial [^1].
 
 Related Topics: [[Glossary/Attack\|Attack]], [[Glossary/Firing Arc\|Firing Arc]], [[Glossary/Line of Sight\|Line of Sight]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 11

@@ -18,6 +18,8 @@ Each effect in the game has a timing during which it can resolve. This timing is
 - Ships and squadrons cannot spend command dials, command tokens, or defense tokens belonging to other ships or squadrons.
 - During setup, card effects can be resolved only if they are an objective card effect or an effect that specifies a timing during setup.
   - During setup, ships and squadrons that have not yet been deployed are in play, and their ship, squadron, and upgrade cards are active, unless that ship or squadron has been destroyed or set aside.
-- When a card is discarded or flipped facedown, its effect is no longer active in the game.
+- When a card is discarded or flipped facedown, its effect is no longer active in the game [^1].
 
 Related Topics: [[Glossary/Critical Effects\|Critical Effects]], [[Glossary/Modifying Dice\|Modifying Dice]], [[Glossary/Squadron Keywords\|Squadron Keywords]], [[Glossary/Upgrade Cards\|Upgrade Cards]]
+
+[^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 5-6
