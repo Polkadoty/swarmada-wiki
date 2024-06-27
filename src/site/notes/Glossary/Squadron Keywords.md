@@ -32,6 +32,38 @@ Each squadron has one or more keywords with matching keyword icons. Each keyword
 	- Example: a Delta-7 Aethersprite squadron has the adept 1 keyword. That squadron gains adept 1 again from another effect. That squadron now has adept 2 for the duration of that effect.
 - Keyword text on squadron cards is reminder text. The reminder text is not an exhaustive description of the rules for a keyword. If reminder text contradicts that keyword’s rules found in this Rules Reference, the Rules Reference takes precedence [^1].
 
+## FAQ
+
+
+> [!question] Q: How does the squadron keyword [[Bomber\|Bomber]] work?
+> **A:** When a squadron with [[Bomber\|Bomber]] attacks a ship, it can resolve the standard critical effect before totaling damage if it has at least one critical hit result. To determine the total damage of an attack against a ship, it sums the number of hit and crit results instead of only the hit results.
+
+> [!question] Q: When a squadron with [[Counter\|Counter]] performs its [[Counter\|Counter]] attack, can it resolve abilities that affect an attack?
+> **A:** Yes. A [[Counter\|Counter]] attack functions just like a normal attack, except that the dice gathered for the attack are indicated by the squadron's [[Counter\|Counter]] value instead of its anti-squadron armament. They can be affected by the [[Swarm\|Swarm]] keyword, Howlrunner's ability, etc.
+
+> [!question] Q: Can a squadron with [[Rogue\|Rogue]] move and attack in either order when it activates during the Squadron Phase?
+> **A:** Yes.
+
+> [!question] Q: Is a squadron with [[Grit\|Grit]] prevented from moving while engaged with two squadrons, one with [[Heavy\|Heavy]] and one without [[Heavy\|Heavy]]?
+> **A:** Yes.
+
+> [!question] Q: Can a squadron with [[Strategic\|Strategic]] move objective tokens that are assigned to a ship?
+> **A:** No.
+
+> [!question] Q: If a squadron with [[Snipe\|Snipe]] is engaged and another squadron is at distance 2, can it attack the squadron at distance 2?
+> **A:** Yes. However, if the squadron with [[Snipe\|Snipe]] is engaged with a squadron with [[Escort\|Escort]], it cannot attack another squadron that lacks [[Escort\|Escort]].
+
+> [!question] Q: Does a squadron with [[Relay\|Relay]] need to be at close-medium range of the ship that is activating squadrons so that those squadrons can activate?
+> **A:** Yes. The relay squadron must be in range to be activated by that ship, but that ship's squadron activation range can also be affected by other effects, such as [[Boosted Comms\|Boosted Comms]].
+
+> [!question] Q: Can a card effect or a squadron with [[Strategic\|Strategic]] move objective tokens to or from a position where they are overlapped by a ship?
+> **A:** Yes. If necessary, that ship's owner may mark that ship's position and lift it out of the way, then return it after the token is moved.
+
+
+
+[^2]
+
 Related Topics: [[Glossary/Armament\|Armament]], [[Glossary/Attack\|Attack]], [[Glossary/Commands\|Commands]], [[Glossary/Engagement\|Engagement]], [[Glossary/Obstacle and Token Movement\|Obstacle and Token Movement]], [[Glossary/Raid Tokens\|Raid Tokens]], [[Glossary/Setup\|Setup]]
 
 [^1]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 19-20
+[^2]: #ffg [[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 34
