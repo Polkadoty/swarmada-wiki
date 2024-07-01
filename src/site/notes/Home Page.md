@@ -4,8 +4,7 @@
 
 ![Armada Logo White](https://a.l3n.co/i/z4zVac.webp)
 
-Welcome to the Unofficial SWArmada Wiki! This is a labor of love and includes information from all over the web, from the official rules, tournament regulations, errata, and rapid reinforcements, to a database of previous battle reports, including lists and how the battles went.
-
+Welcome to the Unofficial SWArmada Wiki! This is a labor of love from me, Polkadoty03, and includes information from all over the web, from the official rules, tournament regulations, errata, and rapid reinforcements, to community efforts like the Armada Legacy project, 
 Note, this wiki is not complete. It it still a work in progress. Current Progress for rules, tournament regulations, errata, rapid reinforcements, and card descriptions and errata are shown below. As things get completed, they will become accessible on the wiki.
 
 
@@ -29,3 +28,14 @@ Note, this wiki is not complete. It it still a work in progress. Current Progres
 #### Quick Reference
 
 [[Rules Stuff/Quick Reference\|Quick Reference]]
+
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('polkadoty', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#ffffff',
+    'floating-chat.donateButton.text-color': '#323842'
+  });
+</script>
