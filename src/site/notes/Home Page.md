@@ -8,26 +8,25 @@ Welcome to the Unofficial SWArmada Wiki! This is a labor of love from me, Polkad
 Note, this wiki is not complete. It it still a work in progress. Current Progress for rules, tournament regulations, errata, rapid reinforcements, and card descriptions and errata are shown below. As things get completed, they will become accessible on the wiki.
 
 
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspect</span><span class="dataview small-text">8</span></th><th class="table-view-th"><span>Progress</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rules</span></td><td><span><progress style="color: green" max="100" value="99.17"></progress><span>99.17% (119/120 completed)</span></span></td></tr><tr><td><span>Ships</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/66 completed)</span></span></td></tr><tr><td><span>Upgrade Cards</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/295 completed)</span></span></td></tr><tr><td><span>Squadrons</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/106 completed)</span></span></td></tr><tr><td><span>Objectives</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/55 completed)</span></span></td></tr><tr><td><span>Tournament Regulations</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/39 completed)</span></span></td></tr><tr><td><span>Errata</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/61 completed)</span></span></td></tr><tr><td><span>Rapid Reinforcements</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/15 completed)</span></span></td></tr></tbody></table></div>
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Aspect</span><span class="dataview small-text">9</span></th><th class="table-view-th"><span>Progress</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>Rules</span></td><td><span><progress style="color: green" max="100" value="100.00"></progress><span>100.00% (120/120 completed)</span></span></td></tr><tr><td><span>FAQ</span></td><td><span><progress style="color: green" max="100" value="100.00"></progress><span>100.00% (55/55 completed)</span></span></td></tr><tr><td><span>Rule Clarifications</span></td><td><span><progress style="color: orange" max="100" value="18.03"></progress><span>18.03% (11/61 completed)</span></span></td></tr><tr><td><span>Ships</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/66 completed)</span></span></td></tr><tr><td><span>Upgrade Cards</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/295 completed)</span></span></td></tr><tr><td><span>Squadrons</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/106 completed)</span></span></td></tr><tr><td><span>Objectives</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/55 completed)</span></span></td></tr><tr><td><span>Tournament Regulations</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/39 completed)</span></span></td></tr><tr><td><span>Rapid Reinforcements</span></td><td><span><progress style="color: orange" max="100" value="0.00"></progress><span>0.00% (0/15 completed)</span></span></td></tr></tbody></table></div>
+
+
 
 ## Table of Contents
 
 ### Rules
 
-[[Rules Stuff/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]]
-[[Rules Stuff/Rules Clarifications\|Rules Clarifications]]
+[[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]]
+[[Rules/Additional Rules/Rules Clarifications\|Rules Clarifications]]
+[[Rules/Additional Rules/Optional Rules\|Optional Rules]]
+[[Rules/Additional Rules/Quick Reference\|Quick Reference]]
 
 #### Glossary
 
-[[Glossary/Glossary Index\|Glossary Index]]
-
-#### FAQ
+[[Rules/Glossary Index\|Glossary Index]]
 
 #### Index
 
-#### Quick Reference
-
-[[Rules Stuff/Quick Reference\|Quick Reference]]
 
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
