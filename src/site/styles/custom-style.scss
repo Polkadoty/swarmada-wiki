@@ -14,9 +14,15 @@ body {
 
 @font-face {
   font-family: 'ArmadaIcons';
-  src: url('assets\ARMADAICONSv6.ttf') format('truetype');
+  src: url('assets/ARMADAICONSv6.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
 }
 
 // .icon-specific-character::before {
@@ -25,7 +31,7 @@ body {
 // }
 
 .icon-objective::before {
-  font-family: 'ArmadaIcons';
+  font-family: 'ArmadaIcons', sans-serif;
   content: '\0021';
 }
 // <span class="icon-objective"></span>
