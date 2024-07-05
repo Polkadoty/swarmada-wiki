@@ -13,7 +13,7 @@
 
 [^2]
 
-Related Topics: [[Rules/Maneuver Tool\|Maneuver Tool]], [[Rules/Range and Distance\|Range and Distance]]
+Related Topics: [[Rules/Maneuver Tool\|Rules/Maneuver Tool]], [[Rules/Range and Distance\|Range and Distance]]
 
 [^1]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 14
 [^2]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 33

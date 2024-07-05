@@ -36,7 +36,7 @@ To set up a standard game of Star Wars: Armada, proceed through the following st
 
 [^2]
 
-Related Topics: [[Rules/Deployment Zone\|Deployment Zone]], [[Rules/ID Tokens\|ID Tokens]], [[Rules/Initiative\|Initiative]], [[Rules/Objective Cards\|Objective Cards]], [[Rules/Obstacles\|Obstacles]], [[Rules/Play Area\|Play Area]], [[Rules/Range and Distance\|Range and Distance]], [[Rules/Setup Area\|Setup Area]]
+Related Topics: [[Rules/Deployment Zone\|Deployment Zone]], [[Rules/ID Tokens\|Rules/ID Tokens]], [[Rules/Initiative\|Initiative]], [[Rules/Objective Cards\|Objective Cards]], [[Rules/Obstacles\|Obstacles]], [[Rules/Play Area\|Play Area]], [[Rules/Range and Distance\|Range and Distance]], [[Rules/Setup Area\|Setup Area]]
 
 [^1]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 16
 [^2]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 33

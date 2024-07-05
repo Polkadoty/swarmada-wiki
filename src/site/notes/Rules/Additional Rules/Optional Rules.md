@@ -18,4 +18,6 @@ During the Command Phase, each player chooses commands for only the ships that p
 
 If teammates cannot come to an agreement on a choice, the Team Commander makes the final decision.
 
-If all of one player's ships and squadrons are destroyed, that player's team continues to play and can win by destroying all of the opposing team's ships or by having the highest score after six rounds.
+If all of one player's ships and squadrons are destroyed, that player's team continues to play and can win by destroying all of the opposing team's ships or by having the highest score after six rounds [^1].
+
+[^1]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 51
