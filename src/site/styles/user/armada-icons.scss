@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'ArmadaIcons';
     src: url('assets/ARMADAICONSv6.ttf') format('truetype');
     font-weight: normal;
@@ -13,12 +13,26 @@
   
   // .icon-specific-character::before {
   //   font-family: 'ArmadaIcons';
-  //   content: '\E001';  /* Replace E001 with the actual Unicode value */
+  //   content: '\E001';  // Replace E001 with the actual Unicode value
   // }
   
   .icon-objective::before {
     font-family: 'ArmadaIcons', sans-serif;
     content: '\0021';
   }
-  // <span class="icon-objective"></span>
+  <span class="icon-objective"></span> */
+
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    vertical-align: middle;
+}
+  
+.icon-objective {
+    background-image: url('assets/objectives/Objective.svg');
+}
   
