@@ -42,7 +42,7 @@ To execute a maneuver with a ship, its owner proceeds through the following step
 
 [^2]
 
-Related Topics: [[Rules/Maneuver Tool\|Maneuver Tool]], [[Rules/Overlapping\|Overlapping]], [[Rules/Ship Activation\|Ship Activation]], [[Rules/Yaw\|Yaw]]
+Related Topics: [[Rules/Maneuver Tool\|Rules/Maneuver Tool]], [[Rules/Overlapping\|Overlapping]], [[Rules/Ship Activation\|Ship Activation]], [[Rules/Yaw\|Yaw]]
 
 [^1]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 17
 [^2]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 32-33

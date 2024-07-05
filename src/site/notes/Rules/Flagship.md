@@ -8,6 +8,6 @@ A flagship is a ship equipped with a commander card. Some objective cards includ
 - A fleet must have one flagship and cannot have more than one.
 - Each flagship must be assigned a flagship ID token pair of the appropriate faction [^1].
 
-Related Topics: [[Rules/Commanders\|Commanders]], [[Rules/ID Tokens\|ID Tokens]], [[Rules/Objective Cards\|Objective Cards]]
+Related Topics: [[Rules/Commanders\|Commanders]], [[Rules/ID Tokens\|Rules/ID Tokens]], [[Rules/Objective Cards\|Objective Cards]]
 
 [^1]: #ffg [[Rules/Additional Rules/Rules Reference Guide 1.5\|Rules Reference Guide 1.5]] Page 6

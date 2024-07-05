@@ -5,7 +5,7 @@
 Ships and squadrons can suffer damage from attacks, obstacles, and other game effects.
 
 - When a squadron suffers damage, reduce its hull points by the damage amount. To indicate this, rotate its squadron disk so that the plastic pointer on the support peg points to the squadron’s remaining hull points.
-- When a ship suffers damage, it suffers that damage one point at a time. For each point, reduce the shields in the defending hull zone by one. If the defending hull zone has no shields to lose, deal a facedown damage card to the ship instead.
+- When a ship suffers damage, it suffers that damage one point at a time. For each point, reduce the shields in the defending hull zone by one. If the defending hull zone has no shields to lose, deal a facedown [[Damage Deck\|Damage Card]] to the ship instead.
 - When a ship has damage cards equal to its hull value, it is immediately destroyed.
 - When a ship suffers damage and a hull zone isn’t specified, the ship’s owner chooses which hull zone suffers all of that damage.
 - Faceup damage cards have either an effect that must be resolved immediately when the card is dealt or a persistent effect that applies while the card is faceup.
