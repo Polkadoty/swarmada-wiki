@@ -12,15 +12,36 @@ body {
     //  }
 }
 
-/* Custom icons */
-.icon {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  vertical-align: -0.125em; /* Adjust vertical alignment as needed */
+@font-face {
+  font-family: 'ArmadaIcons';
+  src: url('assets\ARMADAICONSv6.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
-.icon-SiAdept::before {
-  content: url('/assets/icons/SiAdept.svg');
+.armada-icon {
+  font-family: 'ArmadaIcons';
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+// .icon-specific-character::before {
+//   font-family: 'ArmadaIcons';
+//   content: '\E001';  /* Replace E001 with the actual Unicode value */
+// }
+
+.icon-objective::before {
+  font-family: 'ArmadaIcons';
+  content: '\0021';
+}
+// <span class="icon-objective"></span>
+
+// <span class="icon-specific-character"></span>
+
+
+/* Add more icon classes as needed */
