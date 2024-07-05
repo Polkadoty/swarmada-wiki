@@ -23,19 +23,17 @@
   <span class="icon-objective"></span> */
 
 .icon {
-    display: inline;
+    display: inline-block; /* 'inline-block' often works better for icons */
     width: 1em;
     height: 1em;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    vertical-align: baseline;
+    vertical-align: middle; /* baseline can sometimes cause alignment issues */
     fill: currentColor;
     stroke: currentColor;
 }
-  
+
 .icon-objective {
-    background-image: url('assets/objectives/Objective.svg');
+    background-image: url('/assets/objectives/Objective.svg'); /* Ensure path is correct */
 }
-  
-  
